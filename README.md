@@ -23,5 +23,11 @@ This project uses Google Teachable Machine to build an AI model that classifies 
 ## Project Goal
 To build and test an AI image classification model that can distinguish between bicycles and scooters.
 
+## Results
+
+![Prediction Result](prediction_result.png)
+
+
+
 ## Author
 Sara Saud Alotaibi
