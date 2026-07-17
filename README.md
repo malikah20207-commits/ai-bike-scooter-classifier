@@ -1,3 +1,27 @@
-# Test1Ai
-Project Description
-In this project, I used Teachable Machine to build an image classification model that can distinguish between Bicycle and Scooter. I collected and organized images for both classes and trained the model using Teachable Machine. After training, I exported the model and used Google Colab to write and run the code for testing the model on new images. The project includes the dataset images, the trained model, and the source code required to run and evaluate the image classification system.
+# AI Bike and Scooter Classifier
+
+## Description
+This project uses Google Teachable Machine to build an AI model that classifies images as either a bicycle or a scooter.
+
+## Features
+- Image classification using AI
+- Trained with Google Teachable Machine
+- Predicts whether the image is a bicycle or a scooter
+
+## Technologies Used
+- Google Teachable Machine
+- Python
+- TensorFlow / Keras
+
+## Files
+- Trained AI model (.h5)
+- Labels file
+- Python prediction script
+- Sample images
+- Prediction result image
+
+## Project Goal
+To build and test an AI image classification model that can distinguish between bicycles and scooters.
+
+## Author
+Sara Saud Alotaibi
